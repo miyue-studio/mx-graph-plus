@@ -1,0 +1,25 @@
+{
+  "name": "mx-graph-plus",
+  "version": "1.0.0",
+  "description": "Based on msGraph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyue-studio/mx-graph-plus.git"
+  },
+  "keywords": [
+    "mxgraph"
+  ],
+  "author": "MiyueFE",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/miyue-studio/mx-graph-plus/issues"
+  },
+  "homepage": "https://github.com/miyue-studio/mx-graph-plus#readme",
+  "dependencies": {
+    "mxgraph": "^4.2.2"
+  }
+}
